@@ -1,0 +1,76 @@
+/* .quick {
+  position: absolute;
+  margin-left: -200px;
+}
+.quick2 {
+  position: absolute;
+  margin-top: 350px;
+  margin-left: -160px;
+}
+.info {
+  width: 500px;
+  margin-left: -250px;
+  height: 300px;
+}
+.links {
+  width: 500px;
+  margin-left: 275px;
+  height: 300px;
+}
+.files {
+  margin-left: 800px;
+  width: 550px;
+  height: 300px;
+}
+.title {
+  margin-top: 1px;
+}
+.quick-links {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 1.5rem;
+  list-style: square;
+  min-width: 200px;
+}
+li {
+  padding-bottom: 0.5rem;
+}
+.card-details {
+  padding: 0.5rem 1.0625rem;
+  color: var(--surface-700);
+}
+.card-header {
+  margin: 0.75rem 0 0.5rem 0;
+  padding: 0 0.75rem;
+  border-left: 5px solid var(--actalent-blue-gray-600);
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: var(--surface-800);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quick_style {
+  color: red;
+}
+
+.head {
+  margin-top: -130px;
+  margin-bottom: 20px;
+} */
+
+/* .reports {
+  width: 1650px;
+} */
+
+/* .carditems {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+.Card {
+  width: 500px;
+} */

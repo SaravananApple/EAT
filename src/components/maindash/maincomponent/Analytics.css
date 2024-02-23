@@ -1,0 +1,23 @@
+.line {
+  display: flex;
+  gap: 250px;
+  margin-left: 300px;
+  margin-top: 200px;
+  position: absolute;
+}
+
+.pie_chart {
+  height: 100px;
+  margin-top: 500px;
+  margin-left: -1370px;
+}
+
+.bar {
+  margin-top: 500px;
+  margin-left: 280px;
+}
+
+.chart {
+  margin-left: 50px;
+  position: relative;
+}
