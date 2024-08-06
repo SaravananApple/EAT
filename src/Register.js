@@ -9,6 +9,8 @@ import { Toast } from "primereact/toast";
 import "../src/Register.css";
 
 const Register = () => {
+  console.log();
+
   const [searchParams, setSearchParams] = useState(false);
   const [username, setuserName] = useState("");
   const [email, setEmail] = useState("");
