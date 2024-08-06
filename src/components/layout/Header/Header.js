@@ -2,6 +2,8 @@ import React from "react";
 import "../Header/Header.css";
 
 const Header = (props) => {
+  console.log(props);
+
   const { pageTitle, actionItems } = props;
   return (
     <div className="flex flex-row justify-content-between align-items-center mb-3 ml-3">
